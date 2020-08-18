@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\bin\Debug\VideoTrimmer.exe.config
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\bin\Debug\VideoTrimmer.exe
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\bin\Debug\VideoTrimmer.pdb
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\obj\Debug\VideoTrimmer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\obj\Debug\VideoTrimmer.VideoTrimmer.resources
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\obj\Debug\VideoTrimmer.Properties.Resources.resources
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\obj\Debug\VideoTrimmer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\obj\Debug\VideoTrimmer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\obj\Debug\VideoTrimmer.exe
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\obj\Debug\VideoTrimmer.pdb
+C:\Users\User\source\repos\nanstice\VideoTrimmer\VideoTrimmer\bin\Debug\ffmpeg.exe
